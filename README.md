@@ -2,7 +2,7 @@
 
 Author: Saathvik Maheshuni
 
-This is my midterm paper for Strategic Marketing at NYU Tandon (fall 2026, Professor Jamyn Edis). The assignment was to propose one new product under a brand that already exists, aimed at a customer that brand doesn't fully serve yet, and to argue for it with what we covered in class: the customer, the brand, the channel and the price.
+This is my midterm paper for Marketing at NYU Tandon (fall 2026, Professor Jamyn Edis). The assignment was to propose one new product under a brand that already exists, aimed at a customer that brand doesn't fully serve yet, and to argue for it with what we covered in class: the customer, the brand, the channel and the price.
 
 I proposed Garmin Venu Care. It's a Venu-class watch with LTE, all-day fall detection and a staffed 24/7 response plan, for older adults who live alone and have already fallen, and for the adult children who worry about them. Venu Care is my own idea, not a real Garmin product.
 
